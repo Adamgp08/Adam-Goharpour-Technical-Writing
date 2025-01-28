@@ -1,4 +1,4 @@
-# Adam-Goharpour-Technical-Writing
+# Technical Writing Portfolio
 About Me
 =======
 👋 Hi, my name is Adam Goharpour
