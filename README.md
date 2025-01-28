@@ -6,16 +6,17 @@ I continue to study, research, and add to my skills through projects, developing
 
 Projects
 ======
-Education
+_Education_
 -----------
-Quick Guides
+
+_Quick Guides_
 ---------
 
 
-Continuous Improvement
+_Continuous Improvement_
 ----------
 
-Education _italic_
+_Education_
 -----------
 
 
