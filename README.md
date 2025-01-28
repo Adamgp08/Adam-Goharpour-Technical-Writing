@@ -15,7 +15,7 @@ Quick Guides
 Continuous Improvement
 ----------
 
-Education
+Education _italic_
 -----------
 
 
