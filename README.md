@@ -11,5 +11,7 @@ Projects
 Interests
 =======
 
+Contact Info
+======
 GitHub: @Adamgp08\
 Email: agoharpour@gmail.com
