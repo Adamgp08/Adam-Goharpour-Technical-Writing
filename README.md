@@ -6,6 +6,17 @@ I continue to study, research, and add to my skills through projects, developing
 
 Projects
 ======
+Education
+-----------
+Quick Guides
+---------
+
+
+Continuous Improvement
+----------
+
+Education
+-----------
 
 
 Interests
