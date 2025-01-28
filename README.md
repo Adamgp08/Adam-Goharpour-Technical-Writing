@@ -2,7 +2,8 @@
 Technical Writing Projects
 About Me
 👋 Hi, my name is Adam Goharpour
-I am a passionate technical writer specializing in creating clear and concise documentation for developers and users. I am continually improving my skills by working on open-source projects and practicing the documentation of APIs, software manuals, and technical guides.
+I continue to study, research, and add to my skills through projects, developing training manuals, technical guides, reference sheets, and other creative multimedia content.
+
 
 
 
