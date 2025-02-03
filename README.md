@@ -21,7 +21,11 @@ _Continuous Improvement_
 
 Interests
 =======
-
+*Archery & target shooting
+*Swimming and fitness training
+*Writing
+*Video and multimedia editing
+*Studying current events
 Contact Info
 ======
 GitHub: @Adamgp08\
