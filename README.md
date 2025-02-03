@@ -19,10 +19,6 @@ _Quick Guides_
 _Continuous Improvement_
 ----------
 
-_Education_
------------
-
-
 Interests
 =======
 
