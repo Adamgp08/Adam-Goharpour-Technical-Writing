@@ -1,6 +1,6 @@
 # Technical Writing Portfolio
 About Me
-=======
+<p>
 Hi, my name is Adam Goharpour
 <p>
 I am an experienced and versatile professional with a multidisciplinary background in project management, human resources, and education, skilled in creating clear and concise technical documentation. Throughout my career, I have been developing process manuals, workflow documentation, and compliance materials. Some of my work includes writing manuals and SOPs on operating telehealth equipment and software, safety checklists, on site task verification SOPs for construction installers, and quick-step guides for software and document handling procedures.<p>
