@@ -9,17 +9,16 @@ I continue to study, research, and add to my skills through projects, developing
 
 ## Projects
 <p>
-### _Education_
+_Education_
 -----------
 
-### _Quick Guides_
+_Quick Guides_
 ---------
 
-
-### _Continuous Improvement_
+_Continuous Improvement_
 ----------
 
-### Interests
+## Interests
 =======
 Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events
 
