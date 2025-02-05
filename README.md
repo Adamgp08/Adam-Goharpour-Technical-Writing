@@ -8,18 +8,15 @@ With 3 years of overseas teaching experience, I have worked closely with educato
 I continue to study, research, and add to my skills through projects, developing new training documents, technical guides, reference sheets, and other creative multimedia content.
 
 ## Projects
-<p>
+
 _Education_
------------
 
 _Quick Guides_
----------
 
 _Continuous Improvement_
-----------
 
 ## Interests
-=======
+
 Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events
 
 Contact Info
