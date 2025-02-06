@@ -8,14 +8,15 @@ I am an experienced and versatile professional with a multidisciplinary backgrou
 With 3 years of overseas teaching experience, I have worked closely with educators, to develop English language assessments, and reading, writing, listening, and speaking exercises. As an Assistant Language Teacher in Yamagata City Japan, I have provided language instruction and coaching to children, teens, and adults. My work also included research and writing covering various current events and technological innovations around the world.<p>
 I continue to study, research, and add to my skills through projects, developing new training documents, technical guides, reference sheets, and other creative multimedia content.<p>
 
-## Projects <p>
-- Education 
-- Quick Guides 
-- Continuous Improvement 
-
-## Interests <p>
+Projects <p>
+- Education\
+- Quick Guides\
+- Continuous Improvement\
+<p>
+Interests 
 Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <p>
-# Contact Info <p>
+<p>
+Contact Info 
 
 GitHub: @Adamgp08 <br>
 Email: agoharpour@gmail.com
