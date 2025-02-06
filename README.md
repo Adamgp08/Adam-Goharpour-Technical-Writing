@@ -9,16 +9,14 @@ With 3 years of overseas teaching experience, I have worked closely with educato
 I continue to study, research, and add to my skills through projects, developing new training documents, technical guides, reference sheets, and other creative multimedia content.<p>
 
 ## Projects <p>
-
 - Education 
 - Quick Guides 
 - Continuous Improvement 
 
 ## Interests <p>
-
 Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <p>
-
 # Contact Info <p>
 
 GitHub: @Adamgp08 <br>
 Email: agoharpour@gmail.com
+<p>
