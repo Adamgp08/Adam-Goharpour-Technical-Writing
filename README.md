@@ -9,17 +9,17 @@ I continue to study, research, and add to my skills through projects, developing
 
 <br>
 
-## Projects  
+# Projects  
 _Education_
 
 _Quick Guides_
 
 _Continuous Improvement_
 
-## Interests
+# Interests
 Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <br>
 
-## Contact Info
+# Contact Info
 
 GitHub: @Adamgp08\
 Email: agoharpour@gmail.com
