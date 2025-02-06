@@ -1,5 +1,6 @@
 # Technical Writing Portfolio
-About Me
+
+## About Me
 <p>
 Hi, my name is Adam Goharpour
 <p>
@@ -9,19 +10,17 @@ I continue to study, research, and add to my skills through projects, developing
 
 <p>
 
-## Projects  
+### Projects  
+- Education 
+- Quick Guides 
+- Continuous Improvement 
 
-Education <br>
-Quick Guides <br>
-Continuous Improvement <br>
+### Interests
 <p>
-  
-## Interests
-<p>
-Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <br>
+Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events 
 
 # Contact Info
-<p></p>
+
 GitHub: @Adamgp08 <br>
 Email: agoharpour@gmail.com
-<p>
+
