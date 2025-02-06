@@ -17,7 +17,6 @@ _Quick Guides_
 _Continuous Improvement_
 
 ## Interests
-<br>
 Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <br>
 
 ## Contact Info
