@@ -13,7 +13,7 @@ Projects <p>
 - Quick Guides
 - Continuous Improvement
 <p>
-Interests 
+Interests <p>
 Archery & target shooting | Swimming and fitness training | Writing | Video and multimedia editing | Studying current events <p>
 <p>
 Contact Info 
